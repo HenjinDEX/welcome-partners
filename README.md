@@ -33,3 +33,9 @@ We aim to add more categories or classification in the future.
 - NFT
 - Payments
 - Games
+
+
+### Example PR
+Here's an [example PR](https://github.com/henjindex/welcome-partners/pull/1) to add a new protocol.
+
+![example-PR](/assets/welcometotaiko.png)
