@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Metamask",
+    "logo": "wallets/metamask.png",
+    "href": "https://metamask.io"
+  },
+  {
+    "name": "WalletConnect",
+    "logo": "wallets/walletconnect.png",
+    "href": "https://walletconnect.com"
+  },
+  {
+    "name": "Trust",
+    "logo": "wallets/trust.png",
+    "href": "https://trustwallet.com"
+  },
+  {
+    "name": "Coinbase",
+    "logo": "wallets/coinbase.png",
+    "href": "https://www.coinbase.com/wallet"
+  },
+  {
+    "name": "Phantom",
+    "logo": "wallets/phantom.png",
+    "href": "https://phantom.app"
+  },
+  {
+    "name": "OKX",
+    "logo": "wallets/okx.png",
+    "href": "https://www.okx.com/web3"
+  }
+]
