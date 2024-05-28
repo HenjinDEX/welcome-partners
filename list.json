@@ -1,9 +1,9 @@
 [
   {
-    "name": "",
+    "name": "Stargate",
     "subname": "DeFi",
     "tag": ["DeFi"],
-    "logo": "",
-    "href": ""
+    "logo": "stargate.svg",
+    "href": "https://stargate.finance"
   }
 ]
