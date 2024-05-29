@@ -12,5 +12,12 @@
     "tag": ["DeFi"],
     "logo": "algebra.svg",
     "href": "https://algebra.finance"
+  },
+    {
+    "name": "StakeEase",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "stakeease.svg",
+    "href": "https://stakeease.com"
   }
 ]
