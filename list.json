@@ -19,5 +19,12 @@
     "tag": ["DeFi"],
     "logo": "stakeease.svg",
     "href": "https://stakeease.com"
+  },
+    {
+    "name": "Minterest",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "minterest.png",
+    "href": "https://minterest.com"
   }
 ]
