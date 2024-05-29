@@ -5,5 +5,12 @@
     "tag": ["DeFi"],
     "logo": "stargate.svg",
     "href": "https://stargate.finance"
+  },
+  {
+    "name": "Algebra DEX engine",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "algebra.svg",
+    "href": "https://algebra.finance"
   }
 ]
