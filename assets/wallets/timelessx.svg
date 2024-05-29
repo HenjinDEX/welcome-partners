@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+        opacity: .47;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-312.25" y1="678.76" x2="-254.24" y2="678.76" gradientTransform="translate(383.25 -578.76)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2f2f3"/>
+      <stop offset=".49" stop-color="#f0f0f1"/>
+      <stop offset=".66" stop-color="#e9e9ea"/>
+      <stop offset=".79" stop-color="#dddee0"/>
+      <stop offset=".89" stop-color="#ccced0"/>
+      <stop offset=".98" stop-color="#b6b9bc"/>
+      <stop offset="1" stop-color="#b0b3b6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="404.75" y1="1742.25" x2="462.76" y2="1742.25" gradientTransform="translate(-333.76 -1642.25)" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="780.24" cy="61.58" fx="780.24" fy="61.58" r="18.83" gradientTransform="translate(-424.67 678.76) rotate(-45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d33129"/>
+      <stop offset=".54" stop-color="#d13028"/>
+      <stop offset=".73" stop-color="#ca2e28"/>
+      <stop offset=".87" stop-color="#be2b27"/>
+      <stop offset=".98" stop-color="#ad2726"/>
+      <stop offset="1" stop-color="#aa2626"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="763.45" cy="81.03" fx="763.45" fy="81.03" r="39.97" gradientTransform="translate(-424.67 678.76) rotate(-45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d43128"/>
+      <stop offset=".51" stop-color="#d43229"/>
+      <stop offset=".69" stop-color="#d83930"/>
+      <stop offset=".82" stop-color="#dd453c"/>
+      <stop offset=".92" stop-color="#e5564d"/>
+      <stop offset="1" stop-color="#ef6960"/>
+    </radialGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-4" x="71" y="-29.41" width="58.01" height="258.82" rx="29" ry="29" transform="translate(100 -41.42) rotate(45)"/>
+      <rect class="cls-1" x="71" y="-29.41" width="58.01" height="258.82" rx="29" ry="29" transform="translate(241.42 100) rotate(135)"/>
+      <circle class="cls-2" cx="170.59" cy="170.59" r="18.83"/>
+      <circle class="cls-3" cx="170.59" cy="170.59" r="15.61"/>
+    </g>
+  </g>
+</svg>

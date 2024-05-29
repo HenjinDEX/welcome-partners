@@ -28,5 +28,10 @@
     "name": "OKX",
     "logo": "wallets/okx.png",
     "href": "https://www.okx.com/web3"
+  },
+  {
+    "name": "Timeless X",
+    "logo": "wallets/timelessx.svg",
+    "href": "https://timelesswallet.xyz"
   }
 ]
