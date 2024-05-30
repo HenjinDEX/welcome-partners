@@ -20,7 +20,7 @@
     "logo": "stakeease.svg",
     "href": "https://stakeease.com"
   },
-    {
+  {
     "name": "Minterest",
     "subname": "DeFi",
     "tag": ["DeFi"],
@@ -33,5 +33,11 @@
     "tag": ["Liquidity"],
     "logo": "comet.png",
     "href": "https://cometbridge.app"
+  },
+    "name": "ICHI",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "ichi.png",
+    "href": "https://ichi.org"
   }
 ]
