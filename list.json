@@ -29,8 +29,8 @@
   },
   {
     "name": "CometBridge",
-    "subname": "DeFi",
-    "tag": ["DeFi"],
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
     "logo": "comet.png",
     "href": "https://cometbridge.app"
   }
