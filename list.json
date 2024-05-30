@@ -19,5 +19,12 @@
     "tag": ["DeFi"],
     "logo": "stakeease.svg",
     "href": "https://stakeease.com"
+  },
+  {
+    "name": "Steer Protocol",
+    "subname": "DeFi",
+    "tag": ["DeFi", "Liquidity"],
+    "logo": "steerprotocol.svg",
+    "href": "https://steer.finance"
   }
 ]
