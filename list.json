@@ -26,5 +26,12 @@
     "tag": ["DeFi"],
     "logo": "minterest.png",
     "href": "https://minterest.com"
+  },
+  {
+    "name": "CometBridge",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "comet.png",
+    "href": "https://cometbridge.app"
   }
 ]
