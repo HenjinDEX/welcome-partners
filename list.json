@@ -34,10 +34,18 @@
     "logo": "comet.png",
     "href": "https://cometbridge.app"
   },
+  {
     "name": "ICHI",
     "subname": "DeFi",
     "tag": ["DeFi"],
     "logo": "ichi.png",
     "href": "https://ichi.org"
+  },
+  {
+    "name": "Steer Protocol",
+    "subname": "DeFi",
+    "tag": ["DeFi", "Liquidity"],
+    "logo": "steerprotocol.svg",
+    "href": "https://steer.finance"
   }
 ]
