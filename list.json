@@ -1,8 +1,8 @@
 [
   {
     "name": "Stargate",
-    "subname": "DeFi",
-    "tag": ["DeFi"],
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
     "logo": "stargate.svg",
     "href": "https://stargate.finance"
   },
@@ -28,7 +28,7 @@
     "href": "https://minterest.com"
   },
   {
-    "name": "CometProtocol",
+    "name": "Comet Protocol",
     "subname": "Liquidity",
     "tag": ["Liquidity"],
     "logo": "comet.png",
@@ -36,15 +36,15 @@
   },
   {
     "name": "ICHI",
-    "subname": "DeFi",
-    "tag": ["DeFi"],
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
     "logo": "ichi.png",
     "href": "https://ichi.org"
   },
   {
     "name": "Steer Protocol",
-    "subname": "DeFi",
-    "tag": ["DeFi", "Liquidity"],
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
     "logo": "steerprotocol.svg",
     "href": "https://steer.finance"
   }
