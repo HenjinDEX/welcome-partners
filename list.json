@@ -47,5 +47,12 @@
     "tag": ["Liquidity"],
     "logo": "steerprotocol.svg",
     "href": "https://steer.finance"
-  }
+  },
+  {
+    "name": "Retro Bridge",
+    "subname": "Liquidity",
+    "tag": ["Liquidity"],
+    "logo": "retrobridge.svg",
+    "href": "https://retrobridge.io"
+  },
 ]
