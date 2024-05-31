@@ -1,5 +1,15 @@
 [
   {
+    "name": "Timeless X",
+    "logo": "wallets/timelessx.svg",
+    "href": "https://timelesswallet.xyz"
+  },
+  {
+    "name": "Bitget Wallet",
+    "logo": "wallets/bitgetwallet.png",
+    "href": "https://web3.bitget.com"
+  }
+  {
     "name": "Metamask",
     "logo": "wallets/metamask.png",
     "href": "https://metamask.io"
@@ -29,14 +39,4 @@
     "logo": "wallets/okx.png",
     "href": "https://www.okx.com/web3"
   },
-  {
-    "name": "Timeless X",
-    "logo": "wallets/timelessx.svg",
-    "href": "https://timelesswallet.xyz"
-  },
-  {
-    "name": "Bitget Wallet",
-    "logo": "wallets/bitgetwallet.png",
-    "href": "https://web3.bitget.com"
-  }
 ]
