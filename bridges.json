@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Stargate",
+    "logo": "bridges/stargate.svg",
+    "href": "https://stargate.finance"
+  },
+  {
+    "name": "Retro Bridge",
+    "logo": "bridges/retrobridge.svg",
+    "href": "https://retrobridge.io"
+  }
+]

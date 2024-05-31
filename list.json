@@ -1,10 +1,10 @@
 [
   {
-    "name": "Stargate",
-    "subname": "Liquidity",
-    "tag": ["Liquidity"],
-    "logo": "stargate.svg",
-    "href": "https://stargate.finance"
+    "name": "Tokemon.fun",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "tokemon.png",
+    "href": "https://tokemon.fun"
   },
   {
     "name": "Algebra",
@@ -13,7 +13,7 @@
     "logo": "algebra.svg",
     "href": "https://algebra.finance"
   },
-    {
+  {
     "name": "StakeEase",
     "subname": "DeFi",
     "tag": ["DeFi"],
@@ -47,12 +47,5 @@
     "tag": ["Liquidity"],
     "logo": "steerprotocol.svg",
     "href": "https://steer.finance"
-  },
-  {
-    "name": "Retro Bridge",
-    "subname": "Liquidity",
-    "tag": ["Liquidity"],
-    "logo": "retrobridge.svg",
-    "href": "https://retrobridge.io"
-  },
+  }
 ]

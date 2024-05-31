@@ -17,3 +17,8 @@ jobs:
         env:
           INPUT_JSONS: ./list.json
           INPUT_SCHEMA: ./schema.list.json
+      - name: Validate JSON bridges
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_JSONS: ./bridges.json
+          INPUT_SCHEMA: ./schema.bridges.json
