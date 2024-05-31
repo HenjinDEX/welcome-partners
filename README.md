@@ -31,7 +31,6 @@ We aim to add more categories or classification in the future.
 - DeFi
 - Liquidity
 - NFT
-- Payments
 - Games
 
 
