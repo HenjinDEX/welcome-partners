@@ -47,5 +47,12 @@
     "tag": ["Liquidity"],
     "logo": "steerprotocol.svg",
     "href": "https://steer.finance"
+  },
+  {
+    "name": "Hana Finance",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "hana.png",
+    "href": "https://www.hana.finance/"
   }
 ]
