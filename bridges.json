@@ -1,13 +1,13 @@
 [
   {
+    "name": "Taiko Bridge",
+    "logo": "bridges/taiko-canonical.svg",
+    "href": "https://bridge.taiko.xyz/"
+  },
+  {
     "name": "Router Protocol",
     "logo": "bridges/router-protocol.svg",
     "href": "https://www.routerprotocol.com/"
-  },
-  {
-    "name": "Stargate",
-    "logo": "bridges/stargate.svg",
-    "href": "https://stargate.finance"
   },
   {
     "name": "Retro Bridge",
