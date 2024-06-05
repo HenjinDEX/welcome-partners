@@ -49,6 +49,13 @@
     "href": "https://steer.finance"
   },
   {
+    "name": "PinkTrade",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "pinktrade.png",
+    "href": "https://pinktrade.fi"
+  },
+  {
     "name": "Hana Finance",
     "subname": "DeFi",
     "tag": ["DeFi"],
