@@ -1,5 +1,10 @@
 [
   {
+    "name": "Router Protocol",
+    "logo": "bridges/router-protocol.svg",
+    "href": "https://www.routerprotocol.com/"
+  },
+  {
     "name": "Stargate",
     "logo": "bridges/stargate.svg",
     "href": "https://stargate.finance"

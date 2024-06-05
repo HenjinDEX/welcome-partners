@@ -54,5 +54,12 @@
     "tag": ["DeFi"],
     "logo": "pinktrade.png",
     "href": "https://pinktrade.fi"
+  },
+  {
+    "name": "Hana Finance",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "hana.png",
+    "href": "https://hana.finance"
   }
 ]
