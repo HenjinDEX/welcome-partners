@@ -25,16 +25,6 @@
     "href": "https://trustwallet.com"
   },
   {
-    "name": "Coinbase",
-    "logo": "wallets/coinbase.png",
-    "href": "https://www.coinbase.com/wallet"
-  },
-  {
-    "name": "Phantom",
-    "logo": "wallets/phantom.svg",
-    "href": "https://phantom.app"
-  },
-  {
     "name": "OKX",
     "logo": "wallets/okx.png",
     "href": "https://www.okx.com/web3"
