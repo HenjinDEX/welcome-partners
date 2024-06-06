@@ -61,5 +61,19 @@
     "tag": ["DeFi"],
     "logo": "hana.png",
     "href": "https://hana.finance"
+  },
+  {
+    "name": "Geckoterminal",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "geckoterminal.webp",
+    "href": "https://www.geckoterminal.com/taiko/henjindex/pools"
+  },
+  {
+    "name": "Onsen Pools",
+    "subname": "DeFi",
+    "tag": ["DeFi"],
+    "logo": "onsenpools.jpg",
+    "href": "https://x.com/OnsenPools"
   }
 ]
